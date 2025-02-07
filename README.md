@@ -55,4 +55,4 @@ Uso de la API
                 {
                     "instrument": "SOHO: LASCO/C2"
                 }
-        También se incluye la colección de Postman "test-app.postman_collection" en el repositorio.
+        También se incluye la colección de Postman "nasa-api.postman_collection" en el repositorio.
