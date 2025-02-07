@@ -4,6 +4,7 @@ Este proyecto consume la API de la NASA (DONKI) y expone datos
 sobre instrumentos y actividades mediante una API REST construida en Laravel 10.
 
 Requisitos Previos:
+
     -PHP 8.1 o superior
     -Composer 2.x
     -Laravel 10.x
@@ -28,7 +29,7 @@ Instalación
 
     5. Levantar el servidor local:
         php artisan serve
-    - La aplicación estará disponible en http://127.0.0.1:8000.
+        La aplicación estará disponible en http://127.0.0.1:8000.
 
 
 Uso de la API
