@@ -15,8 +15,6 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/endpoint-test', [NasaController::class, 'getData']);
-
 Route::get('/nasa/instruments', [NasaController::class, 'getInstruments']);
 Route::get('/nasa/activities', [NasaController::class, 'getActivityIds']);
 Route::get('/nasa/instruments/usage', [NasaController::class, 'getInstrumentUsage']);
