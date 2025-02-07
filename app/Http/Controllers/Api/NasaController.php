@@ -59,10 +59,4 @@ class NasaController extends Controller
             ], 500);
         }
     }
-
-    public function getData(Request $request)
-    {
-        $url = env('NASA_BASE_URL') . '';
-        return 'Endpoint reached!';
-    }
 }
