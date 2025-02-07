@@ -5,9 +5,9 @@ sobre instrumentos y actividades mediante una API REST construida en Laravel 10.
 
 Requisitos Previos:
 
-    -PHP 8.1 o superior
-    -Composer 2.x
-    -Laravel 10.x
+    - PHP 8.1 o superior
+    - Composer 2.x
+    - Laravel 10.x
 
 Instalación
 
